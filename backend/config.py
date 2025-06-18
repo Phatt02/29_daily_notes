@@ -7,4 +7,4 @@ class Config:
         'host': 'localhost02',
         'port': 27017
     }
-    # nannapas
+    
